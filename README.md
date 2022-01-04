@@ -4,7 +4,7 @@
 
 Welcome to my repository!
  
- 🔭 I want to be Front End Developer. I'm working hard to achive it!!
+ 🔭 I want to be a Front End Developer. I'm working hard to achive it!!
  
  🌱 I’m currently learning <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff"> 
  
