@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @Floralarcon31 , my name is Florencia Alarcon.
-- 👉 I am 26 years old.
-- 🌱 I’m currently learning Javascript and React Js.
-- 📫 My email is floralarcon@gmail.com
+<h2> <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Hi, I'm Flor Alarcon</h2>
+
+
+---
+
+⭐️ By [@Floralarcon31](https://github.com/Floralarcon31)
 
 
