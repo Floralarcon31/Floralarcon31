@@ -21,8 +21,10 @@ Welcome to my repository!
 ```JS
 const Flor = {
   pronouns: "she" | "her",
+  age:26,
+  country:"Argentina",
   dogs: [Mora, Dru, Canela, China, Román],
-  hobbies: [listen to music, read books, cook],
+  hobbies: [listen to music, read books, cook, travel],
   music: "I love Taylor Swift",
   currently: "I am learning React and reading 'Mistborn'"
 }
