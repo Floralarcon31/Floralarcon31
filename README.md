@@ -4,11 +4,10 @@
 
 Welcome to my repository!
  
- 🔭 I want to be a Frontend Developer. I'm working hard to achive it!!
+ 🔭 I want to be a Frontend Developer and UX/UI Designer. I'm working hard to achive it!!
  
  🌱 I’m currently learning <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff"> 
  
- :books: I want to learn UX/UI design.
  
  👯 I want to improve my knowledge in <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"> Javascript.
  
@@ -26,7 +25,7 @@ const Flor = {
   dogs: [Mora, Dru, Canela, China, Román],
   hobbies: [listen to music, read books, cook, travel],
   music: "I love Taylor Swift",
-  currently: "I am learning React and reading 'Mistborn'"
+  currently: "I am learning about design"
 }
 ```
 <br>
